@@ -29,7 +29,6 @@
         <div class="fixed-bar"></div>
         <%= partial "partials/header" %>
         <div class="cf grid">
-            <%= partial "partials/menu" %>
             <section class="content">
                 <% current_page.data.sections && current_page.data.sections.each do |include| %>
                     <%= partial "sections/#{include}" %>

@@ -364,7 +364,7 @@ Datica will use commercially reasonable efforts to make the Services Available a
 Service Category | Availability
 --------- | -----------
 Availability Requirement | The monthly availability percentage is  ninety nine point nine percent (99.9%) as measured over the course of each calendar month during the Term, excluding  interruptions described below.
-Scheduled Downtime | 10:00 pm – 11:00 pm CST weekly on Saturdays, or as Datica otherwise notifies Customer no less than twenty-four (24) hours in advance, but in no event shall Scheduled Downtime exceed two (2) hours in any given week. Any such outages in excess of this amount shall be considered Unplanned Outages (defined below).
+Scheduled Downtime | 7:00 pm – 12:00 am CST weekly on Tuesdays, or as Datica otherwise notifies Customer no less than twenty-four (24) hours in advance. Any such outages in excess of the schedule above shall be considered Unplanned Outages (defined below).
 Unplanned Outages | Maximum two (2) hours over a reference period of one (1) month. Datica will promptly notify Customer of any Unplanned Outage, including a description of the Unplanned Outage and the expected or estimated time until normal operations will resume.
 Exceptions to Availability | No period of Service degradation or inoperability will be included in calculating Availability to the extent caused by: <br /> (1) outages caused by the failure of public network or communications components; <br /> (2) Customer’s misuse of Services; including their Integrating Organizations or their Authorized Users; <br /> (3) unauthorized use or misuse by Customer or anyone using any of the Customer passwords, unless Customer has not taken industry standard steps to protect the Services from unauthorized access, intrusion, and disruption; <br /> (4) failures of Customer or any of its Authorized Users’ internet connectivity; <br /> (5) Scheduled Downtime as set forth above; <br /> (6) Force Majeure Event; <br /> (7) disabling, suspension or termination of the Services.
 
@@ -533,7 +533,7 @@ Datica reserves the right to change this Privacy Statement. Datica will provide 
 Questions regarding this Privacy Statement or the information practices of the Company’s Web site should be directed to support@datica.com or by mailing Datica Privacy, 111 South Hamilton Street #30, Madison, WI 53703.
 
 ----
-*Last updated May 29th, 2014.*
+*Last updated March 20th, 2019.*
 
 
 *These policies are inspired by the policies of [Google App Engine][7] and [Heroku][8]. The original works have been modified. Datica is not affiliated with or sponsored by Google or Heroku.*
