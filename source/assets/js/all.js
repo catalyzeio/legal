@@ -1,2 +1,5 @@
-//= require_tree ./lib
-//= require_tree ./app
+tocbot.init({
+  tocSelector: '.toc',
+  contentSelector: '.content',
+  headingSelector: 'h1'
+});
