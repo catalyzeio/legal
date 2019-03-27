@@ -19,7 +19,7 @@ set :markdown, :xhtml => true, :fenced_code_blocks => true, :smartypants => true
 
 activate :syntax, :wrap => true
 
-set :url_root, 'https://policy.datica.com'
+set :url_root, 'https://legal.datica.com'
 
 activate :search_engine_sitemap
 
