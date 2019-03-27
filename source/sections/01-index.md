@@ -195,9 +195,6 @@ Customer agrees to comply with all applicable export and re-export control laws 
 
 The Exhibits attached hereto are incorporated herein by this reference, are an integral part of the Agreement, and will be read and interpreted together with the Agreement as a single document. This Agreement (including all Exhibits and addendums attached hereto), together with the Service Orders and any applicable non-disclosure agreements, sets forth the complete, exclusive and final statement of the agreement between the parties as to the subject matter hereof and supersedes all prior and contemporaneous agreements, understandings, negotiations and discussions, whether oral or written, between the parties regarding such subject matter. This Agreement may only be modified, amended, or any rights under it waived, by a written document executed by the Parties. This Agreement may be executed in two or more counterparts, each of which will be deemed an original, but all of which together shall constitute one and the same instrument.
 
-
-*Last updated: 22nd May, 2014*
-
 <!-- -->
 # Datica Acceptable Use Policy
 
@@ -259,31 +256,7 @@ disclosure.
 - In the event that Customer becomes aware of any violation of this Agreement by a user of one of Customer's applications, Customer shall promptly terminate such users' account on the Customer application. Datica reserves the right to disable Customer's applications in response to a violation or suspected violation of this Agreement.
 - Customer agrees that it is solely responsible for (and that Datica has no responsibility to it or to any third party for) the Customer application or any content that it creates, transmits or displays while using the Datica Services and for the consequences of its actions (including any loss or damage which Datica may suffer) by doing so, except to the extent caused by the Services or Datica.
 - Customer agrees that Datica has no responsibility or liability for the deletion or failure to store any Customer content and other communications maintained or transmitted through use of the Service.
-Last Updated: May 15,
 
-
-# BaaS Terms and Conditions
-
-In addition to the General Terms and Conditions, your use of the Datica Backend As A Service (BaaS) is subject to the following additional terms and conditions:
-
-## 1 Additional Defined Terms
-
-“**Disk Encryption**” means that “data at rest” are encrypted on the hard disk(s) on which Customer Application is deployed.
-
-“**Encryption In-transit**” means that any and all network traffic to and from the Customer Application within the Datica Platform shall be encrypted.
-
-“**Protected Health Information**” or “**PHI**” or "**ePHI**" shall have the same meaning as the term “protected health information” in 45 CFR § 160.103, limited to the information received by Datica from or on behalf of a Customer.
-
-## 2 Encryption
-All BaaS Customers will have Disk Encryption enabled by default. All network traffic will have Encryption In-transit enabled by default. Datica Encryption Policies are outlined in detail [here][1].
-
-## 3 Fees
-Subject to the Terms, the Backend as a Service (BaaS) is provided to you without charge up to certain usage limits. Usage over these limit requires the purchase of additional resources or services.
-
-*Last updated: 22nd May, 2014*
-
-<a id="paasterms"></a>
-<div name="paasterms" data-unique="paasterms"></div>
 # PaaS Terms and Conditions
 
 In addition to the General Terms and Conditions, use of the Datica Platform As A Service (PaaS) is subject to the following additional terms and conditions:
@@ -313,10 +286,6 @@ Audit Logging will be enabled on request by Customer. Only the most recent fourt
 
 The term of the Subscription Agreement shall be twelve (12) months and payable monthly from the Service Order Effective Date. Following the initial term, the Service Order shall automatically renew for an additional 12 months at the prices then in effect for Services unless either party provides sixty (60) days’ prior written notice of its intent not to renew prior to the expiration of the then current term. Provider may terminate this Service Order in accordance with the Subscription Agreement. Customer may terminate the Service Order under which such Services were ordered by providing written notice to Provider at least sixty (60) days prior to the termination effective date.  Customer shall have no right to terminate the Service Order unless the termination effective date is at least sixty (60) days after the Service Order Effective Date.
 
-
-
-*Last updated: 23nd May, 2014*
-
 # Managed Integration Terms and Conditions
 
 In addition to the General Terms and Conditions, your use of the Datica Managed Integration Service (MIS) is subject to the following additional terms and conditions:
@@ -334,8 +303,6 @@ All MIS Customers will have Disk Encryption enabled by default. All network traf
 
 ## 3 Term
 The term of the Subscription Agreement and all subsequent Service Orders for MIS customers shall be twelve (12) months and payable monthly from the Service Order Effective Date. Following the initial term, the Service Order shall automatically renew for an additional 12 months at the prices then in effect for Services unless either party provides one-hundred, eighty (180) days' prior written notice of its intent not to renew prior to the expiration of the then current term. Customer may terminate the Service Order by providing written notice to Datica at least one-hundred, eighty (180) days prior to the termination effective date. Customer shall have no right to terminate the Service Order unless the termination effective date is at least one-hundred, eighty (180) days after the Service Order Effective Date.
-
-*Last updated: 1st May, 2015*
 
 # Service Level and Support Agreement
 
@@ -442,8 +409,6 @@ Endpoint/Connection Change | Customer or Integrating Organization need to change
 For each twelve (12) month period in where Datica does not meet the above Initial Response or Resolution time periods for an issue.
 5.2.1 For each missed request, Datica shall, upon Customer’s request made within thirty (30) days of the date the request was missed, provide Customer with a service credit in an amount equal to half of one month of the specific Production Integration’s Service fee.
 5.2.2 For the third missed request within a twelve (12) month period of time, Datica shall, upon Customer’s request made within thirty (30) days of the date the request was missed, provide Customer with a service credit in an amount equal to one month of the specific Production Integration’s Service fee.  Customer may also terminate this Agreement upon thirty (30) days’ written notice (which notice must be given within sixty (60) days of the date the missed request).
-
-*Last updated: 30th November, 2015*
 
 # Privacy Policy
 
