@@ -8,6 +8,6 @@ $f_bu: 'SF UI Text', 'San Francisco', sans-serif;
 $f_bu-serif: $f_bu;
 $f_sans: $f_bu;
 $f_serif: $f_bu;
-body{
+html,body{
 	font-family: $f_sans;font-size:14px;
 }

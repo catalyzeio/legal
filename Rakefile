@@ -1,6 +1,6 @@
 desc "Build static site to build directory"
 task :build do
-  status = system("middleman build --clean")
+  status = system("bundle exec middleman build --clean")
   puts status ? "OK" : "FAILED"
 end
 
