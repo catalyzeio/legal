@@ -310,7 +310,7 @@ The term of the Subscription Agreement and all subsequent Service Orders for MIS
 
 **“Business Day”** means Monday through Friday excluding national United States holidays.
 
-**“Business Hours”** means 9:00 a.m. to 5:00 p.m. Central standard time of a Business Day.
+**“Business Hours”** means 9:00 a.m. to 5:00 p.m. Central time of a Business Day.
 
 **“Integrating Organization”** means an organization with which Customer (via Datica) has an active interface.
 
